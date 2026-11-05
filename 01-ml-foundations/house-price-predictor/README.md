@@ -6,7 +6,7 @@ such as median income, house age, and location. This is a supervised **regressio
 
 ## Data
 - Source: California housing dataset from scikit-learn (`fetch_california_housing`), based on the 1990 census.
-- 20,640 rows, each a neighborhood (census block group), with 8 features and 1 target (`MedHouseVal`, in units of $100,000).s
+- 20,640 rows, each a neighborhood (census block group), with 8 features and 1 target (`MedHouseVal`, in units of $100,000).
 - No missing values or duplicates.
 
 ## What I've done so far
